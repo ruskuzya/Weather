@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="btnByLocation">По местоположению</string>
+    <string name="btnByCity">Ввести вручную</string>
+    <string name="weather">Погода</string>
+    <string name="please_wait">Пожалуйста, подождите&#8230;</string>
+    <string name="find">Найти</string>
+    <string name="location_block">Запрещен поиск по координатам</string>
+    <string name="find_error">Не удалось определить погоду</string>
+</resources>
